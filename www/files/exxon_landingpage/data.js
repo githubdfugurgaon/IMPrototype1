@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"exxon_landingpage.html",
-  "generationDate":new Date(1393931191582.64),
+  "generationDate":new Date(1393938853221.55),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -101,10 +101,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open Confirm_Elect in Current Window",
+                      "description":"Open Elect_Success in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"confirm_elect.html",
+                        "url":"elect_success.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

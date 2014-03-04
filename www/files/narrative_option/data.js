@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"narrative_option.html",
-  "generationDate":new Date(1393931192892.54),
+  "generationDate":new Date(1393938854545.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"pfizer_event_scroll.html",
-  "generationDate":new Date(1393931194826.16),
+  "generationDate":new Date(1393938856474.99),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

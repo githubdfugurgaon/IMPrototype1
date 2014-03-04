@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"confirm_elect.html",
-  "generationDate":new Date(1393931195517.78),
+  "generationDate":new Date(1393938857304.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
