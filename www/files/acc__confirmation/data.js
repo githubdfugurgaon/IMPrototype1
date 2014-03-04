@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"acc__confirmation.html",
-  "generationDate":new Date(1393926729194.86),
+  "generationDate":new Date(1393931191912.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -37,8 +37,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":2048,
-              "height":1536}},
+              "width":1024,
+              "height":768}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -50,8 +50,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":2048,
-                  "height":1536}},
+                  "width":1024,
+                  "height":768}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -64,11 +64,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1150,
-              "y":1100},
+              "x":575,
+              "y":550},
             "size":{
-              "width":230,
-              "height":100}},
+              "width":115,
+              "height":50}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -94,11 +94,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1380,
-              "y":280},
+              "x":690,
+              "y":140},
             "size":{
-              "width":60,
-              "height":80}},
+              "width":30,
+              "height":40}},
           "adaptiveStyles":{
 },
           "interactionMap":{

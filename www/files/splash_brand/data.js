@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"splash_brand.html",
-  "generationDate":new Date(1393926728705.7),
+  "generationDate":new Date(1393931191432.52),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -37,8 +37,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":2048,
-              "height":1536}},
+              "width":1024,
+              "height":768}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -50,8 +50,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":2048,
-                  "height":1536}},
+                  "width":1024,
+                  "height":768}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -64,8 +64,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":2048,
-              "height":1536}},
+              "width":1024,
+              "height":768}},
           "adaptiveStyles":{
 },
           "interactionMap":{

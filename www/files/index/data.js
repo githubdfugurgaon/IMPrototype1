@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"index.html",
-  "generationDate":new Date(1393926727693.91),
+  "generationDate":new Date(1393931190447.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -37,8 +37,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":2048,
-              "height":1536}},
+              "width":1024,
+              "height":768}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -50,8 +50,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":2048,
-                  "height":1536}},
+                  "width":1024,
+                  "height":768}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -64,11 +64,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1045,
-              "y":900},
+              "x":522,
+              "y":450},
             "size":{
-              "width":243,
-              "height":91}},
+              "width":122,
+              "height":46}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -94,11 +94,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1315,
-              "y":900},
+              "x":658,
+              "y":450},
             "size":{
-              "width":349,
-              "height":90}},
+              "width":174,
+              "height":45}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -124,11 +124,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":442,
-              "y":1236},
+              "x":221,
+              "y":618},
             "size":{
-              "width":258,
-              "height":94}},
+              "width":129,
+              "height":47}},
           "adaptiveStyles":{
 },
           "interactionMap":{

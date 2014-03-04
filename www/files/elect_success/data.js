@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"elect_success.html",
-  "generationDate":new Date(1393926729521.55),
+  "generationDate":new Date(1393931192230.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -37,8 +37,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":2048,
-              "height":1536}},
+              "width":1024,
+              "height":768}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -50,8 +50,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":2048,
-                  "height":1536}},
+                  "width":1024,
+                  "height":768}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -64,11 +64,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1370,
-              "y":650},
+              "x":685,
+              "y":325},
             "size":{
-              "width":70,
-              "height":70}},
+              "width":35,
+              "height":35}},
           "adaptiveStyles":{
 },
           "interactionMap":{

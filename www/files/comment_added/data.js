@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"comment_added.html",
-  "generationDate":new Date(1393926730030),
+  "generationDate":new Date(1393931192715.25),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -37,8 +37,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":2048,
-              "height":1536}},
+              "width":1024,
+              "height":768}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -50,8 +50,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":2048,
-                  "height":1536}},
+                  "width":1024,
+                  "height":768}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -64,11 +64,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1349,
-              "y":1190},
+              "x":674,
+              "y":595},
             "size":{
-              "width":80,
-              "height":70}},
+              "width":40,
+              "height":35}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -94,11 +94,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1430,
-              "y":1190},
+              "x":715,
+              "y":595},
             "size":{
-              "width":80,
-              "height":70}},
+              "width":40,
+              "height":35}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -124,11 +124,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1680,
-              "y":660},
+              "x":840,
+              "y":330},
             "size":{
-              "width":200,
-              "height":70}},
+              "width":100,
+              "height":35}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -154,11 +154,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1680,
-              "y":1280},
+              "x":840,
+              "y":640},
             "size":{
-              "width":200,
-              "height":80}},
+              "width":100,
+              "height":40}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -185,7 +185,10 @@
           "style":{
             "location":{
               "x":0,
-              "y":255}},
+              "y":128},
+            "size":{
+              "width":320,
+              "height":643}},
           "adaptiveStyles":{
 },
           "masterId":"a93c6a29d4f34d01b94124aff6053d66"},
@@ -208,11 +211,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":960,
-              "y":380},
+              "x":480,
+              "y":190},
             "size":{
-              "width":280,
-              "height":90}},
+              "width":140,
+              "height":45}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -238,11 +241,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1260,
-              "y":380},
+              "x":630,
+              "y":190},
             "size":{
-              "width":360,
-              "height":90}},
+              "width":180,
+              "height":45}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -268,11 +271,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":705,
-              "y":380},
+              "x":352,
+              "y":190},
             "size":{
-              "width":245,
-              "height":90}},
+              "width":122,
+              "height":45}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -298,11 +301,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1700,
-              "y":1400},
+              "x":850,
+              "y":700},
             "size":{
-              "width":250,
-              "height":110}},
+              "width":125,
+              "height":55}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -355,11 +358,11 @@
             "visible":true,
             "style":{
               "location":{
-                "x":2,
-                "y":259},
+                "x":1,
+                "y":130},
               "size":{
-                "width":637,
-                "height":360}},
+                "width":318,
+                "height":180}},
             "adaptiveStyles":{
 },
             "interactionMap":{
@@ -386,10 +389,10 @@
             "style":{
               "location":{
                 "x":0,
-                "y":619},
+                "y":310},
               "size":{
-                "width":637,
-                "height":360}},
+                "width":318,
+                "height":180}},
             "adaptiveStyles":{
 },
             "interactionMap":{
@@ -415,11 +418,11 @@
             "visible":true,
             "style":{
               "location":{
-                "x":3,
-                "y":979},
+                "x":2,
+                "y":490},
               "size":{
-                "width":637,
-                "height":360}},
+                "width":318,
+                "height":180}},
             "adaptiveStyles":{
 },
             "interactionMap":{
@@ -445,11 +448,11 @@
             "visible":true,
             "style":{
               "location":{
-                "x":3,
-                "y":1339},
+                "x":2,
+                "y":670},
               "size":{
-                "width":637,
-                "height":206}},
+                "width":318,
+                "height":103}},
             "adaptiveStyles":{
 },
             "interactionMap":{
@@ -502,10 +505,10 @@
             "style":{
               "location":{
                 "x":0,
-                "y":127},
+                "y":64},
               "size":{
-                "width":194,
-                "height":131}},
+                "width":97,
+                "height":66}},
             "adaptiveStyles":{
 },
             "interactionMap":{
@@ -531,11 +534,11 @@
             "visible":true,
             "style":{
               "location":{
-                "x":194,
-                "y":127},
+                "x":97,
+                "y":64},
               "size":{
-                "width":292,
-                "height":131}},
+                "width":146,
+                "height":66}},
             "adaptiveStyles":{
 },
             "interactionMap":{
@@ -561,11 +564,11 @@
             "visible":true,
             "style":{
               "location":{
-                "x":486,
-                "y":127},
+                "x":243,
+                "y":64},
               "size":{
-                "width":154,
-                "height":131}},
+                "width":77,
+                "height":66}},
             "adaptiveStyles":{
 },
             "interactionMap":{
@@ -591,11 +594,11 @@
             "visible":true,
             "style":{
               "location":{
-                "x":29,
-                "y":45},
+                "x":14,
+                "y":23},
               "size":{
-                "width":136,
-                "height":82}},
+                "width":68,
+                "height":41}},
             "adaptiveStyles":{
 },
             "interactionMap":{

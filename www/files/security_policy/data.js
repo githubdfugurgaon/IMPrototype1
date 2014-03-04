@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"security_policy.html",
-  "generationDate":new Date(1393926728059.72),
+  "generationDate":new Date(1393931190791.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -37,8 +37,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":2048,
-              "height":1536}},
+              "width":1024,
+              "height":766}},
           "adaptiveStyles":{
 },
           "objects":[{
@@ -50,8 +50,8 @@
               "visible":true,
               "style":{
                 "size":{
-                  "width":2048,
-                  "height":1536}},
+                  "width":1024,
+                  "height":766}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -64,11 +64,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1882,
-              "y":62},
+              "x":941,
+              "y":31},
             "size":{
-              "width":90,
-              "height":100}},
+              "width":45,
+              "height":50}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -94,11 +94,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":1978,
+              "x":989,
               "y":0},
             "size":{
-              "width":70,
-              "height":1530}},
+              "width":35,
+              "height":763}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -124,8 +124,8 @@
           "visible":true,
           "style":{
             "size":{
-              "width":70,
-              "height":1540}},
+              "width":35,
+              "height":768}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -151,11 +151,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":70,
+              "x":35,
               "y":0},
             "size":{
-              "width":1910,
-              "height":60}},
+              "width":955,
+              "height":30}},
           "adaptiveStyles":{
 },
           "interactionMap":{
@@ -181,11 +181,11 @@
           "visible":true,
           "style":{
             "location":{
-              "x":70,
-              "y":1470},
+              "x":35,
+              "y":733},
             "size":{
-              "width":1910,
-              "height":70}},
+              "width":955,
+              "height":35}},
           "adaptiveStyles":{
 },
           "interactionMap":{
