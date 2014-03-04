@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"splash_brand.html",
-  "generationDate":new Date(1393924781417.77),
+  "generationDate":new Date(1393926170723.49),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
