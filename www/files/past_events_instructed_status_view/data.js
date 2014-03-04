@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"past_events_instructed_status_view.html",
-  "generationDate":new Date(1393926176320.37),
+  "generationDate":new Date(1393926734733.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

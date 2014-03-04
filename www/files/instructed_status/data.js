@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"instructed_status.html",
-  "generationDate":new Date(1393926172524.34),
+  "generationDate":new Date(1393926730602.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
