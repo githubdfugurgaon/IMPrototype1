@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"add_conditional_quantity.html",
-  "generationDate":new Date(1393938856536.97),
+  "generationDate":new Date(1394694204612.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

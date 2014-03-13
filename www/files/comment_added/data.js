@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"comment_added.html",
-  "generationDate":new Date(1393938854363.27),
+  "generationDate":new Date(1394694200720.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

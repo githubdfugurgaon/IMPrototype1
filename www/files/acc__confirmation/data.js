@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"acc__confirmation.html",
-  "generationDate":new Date(1393938853540.1),
+  "generationDate":new Date(1394694199692.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -79,10 +79,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open Accounts_Selected in Current Window",
+                      "description":"Open Elect_Success in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"accounts_selected.html",
+                        "url":"elect_success.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},

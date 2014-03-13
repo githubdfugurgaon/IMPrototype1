@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"select_accounts_one_a_c.html",
-  "generationDate":new Date(1393938853309.94),
+  "generationDate":new Date(1394694198822.69),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -136,10 +136,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"Open Acc_ Confirmation in Current Window",
+                      "description":"Open Accounts_Selected in Current Window",
                       "target":{
                         "targetType":"page",
-                        "url":"acc__confirmation.html",
+                        "url":"accounts_selected.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true},
